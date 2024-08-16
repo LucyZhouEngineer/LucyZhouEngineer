@@ -44,31 +44,14 @@
   </li>
 </ul>
 </p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Last Commit</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="[https://github.com/takkujunjieli/Emojis](https://github.com/LucyZhouEngineer/mern-chat-app)"><b>Real-Time Chat Application</b></a></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/takkujunjieli/AsyncTaskScheduler"><b>AsyncTask Scheduler</b></a></td>
-      
-    </tr>
-    <tr>
-      <td><a href="[https://github.com/takkujunjieli/BJMR](https://github.com/LucyZhouEngineer/Analyst)"><b>AI-Powered Consulting Analyst
-</b></a></td>
-    </tr>
-  </tbody>
-</table>
+
+### 💻 &nbsp;Projects
+
+- **[Real-Time Chat Application](https://github.com/takkujunjieli/Emojis)** - A real-time messaging application that enables users to communicate instantly.
+- **[AsyncTask Scheduler](https://github.com/takkujunjieli/AsyncTaskScheduler)** - A Go framework for asynchronously scheduling tasks to accelerate data processing, developed in collaboration with Junjie Li.
+- **[AI-Powered Consulting Analyst](https://github.com/LucyZhouEngineer/Analyst)** - A strategy and financial AI consultant that generates reports on business outlook.
+
+
 <h3>Recent tech posts that I find helpful</h3>
 <ul>
     <li><a href="https://lilianweng.github.io/posts/2024-07-07-hallucination/"><b> Extrinsic Hallucinations in LLMs</b></a><br/> <i>A soft intro on hallucination detection and anti-hallucination advancement</i></li>
