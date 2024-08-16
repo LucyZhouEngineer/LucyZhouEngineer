@@ -7,7 +7,7 @@
 💡 &nbsp;I enjoy learning new technologies and creating useful products with them.  
 🎓 &nbsp;I'm currently studying Computer Software Engineering at Northeastern University, Seattle.  
 🌱 &nbsp;I'm focused on learning more about Full Stack Development, AI, Distributed Systems, and Cloud Technologies.  
-✍️ &nbsp;In my free time, I enjoy running, playing basketball, and watching movies.  
+✍️ &nbsp;In my free time, I enjoy running🏃, playing basketball🏀, and watching movies🎬.  
 ✉️ &nbsp;You can shoot me an email at zhouhui2023cs@gmail.com! I'll try to respond as soon as I can.
 
 <h3>Things I code with</h3>
