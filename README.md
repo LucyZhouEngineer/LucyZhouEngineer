@@ -69,7 +69,7 @@
 </ul>
 
 <h3>Connect with me</h3>
-<p>  <a href="https://takkujunjieli.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hui-zhou-7ab78620a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:zhouhui2023cs@gmail.com
+<p>  <a href="https://lucyzhouengineer.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hui-zhou-7ab78620a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:zhouhui2023cs@gmail.com
 " target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
