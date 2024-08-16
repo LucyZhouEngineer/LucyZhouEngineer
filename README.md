@@ -1,7 +1,7 @@
 
 <h1><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"/> Hi there 👋! Nice to see you.</h1>
 
-<p>I'm Takku, a developer/applied ML enthusiast currently living in <b>Washington, USA</b>. I am looking for a intern/new grad position of software engineer/ machine learning engineer.</p>
+<p>I'm Hui, a full stack developer/AI enthusiast currently living in <b>Seattle, WA</b>. I am looking for a intern/new grad position of software engineer/ machine learning engineer.</p>
 <h3>Things I code with</h3>
 <p>
 <ul>
@@ -18,7 +18,7 @@
   </li>
   <li><h4>Frameworks & Tech Stacks:</h4>   
 
-  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-%236DB33F.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-%236DB33F.svg?style=for-the-badge&logo=Django&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
