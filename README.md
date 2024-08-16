@@ -18,7 +18,7 @@
   </li>
   <li><h4>Frameworks & Tech Stacks:</h4>   
 
-  <img alt="Django" src="https://img.shields.io/badge/Django-%236DB33F.svg?style=for-the-badge&logo=Django&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-%3776AB.svg?style=for-the-badge&logo=Django&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
@@ -57,25 +57,15 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/takkujunjieli/Emojis"><b>Emoji Search</b></a></td>
-      <td><img alt="GitHub stars" src="https://badgen.net/github/stars/takkujunjieli/Emojis"/></td>
-      <td><img alt="GitHub forks" src="https://badgen.net/github/forks//takkujunjieli/Emojis"/></td>
-      <td><img alt="GitHub issues" src="https://badgen.net/github/issues/takkujunjieli/Emojis"/></td>
-      <td><img alt="GitHub last commit" src="https://badgen.net/github/last-commit/takkujunjieli/BJMR"/></td>
+      <td><a href="[https://github.com/takkujunjieli/Emojis](https://github.com/LucyZhouEngineer/mern-chat-app)"><b>Real-Time Chat Application</b></a></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/takkujunjieli/AsyncTaskScheduler"><b>AsyncTask Scheduler</b></a></td>
-      <td><img alt="GitHub stars" src="https://badgen.net/github/stars/takkujunjieli/AsyncTaskScheduler"/></td>
-      <td><img alt="GitHub forks" src="https://badgen.net/github/forks//takkujunjieli/AsyncTaskScheduler"/></td>
-      <td><img alt="GitHub issues" src="https://badgen.net/github/issues/takkujunjieli/AsyncTaskScheduler"/></td>
-      <td><img alt="GitHub last commit" src="https://badgen.net/github/last-commit/takkujunjieli/BJMR"/></td>
+      
     </tr>
     <tr>
-      <td><a href="https://github.com/takkujunjieli/BJMR"><b>Business Job Market Rumors</b></a></td>
-      <td><img alt="GitHub stars" src="https://badgen.net/github/stars/takkujunjieli/BJMR"/></td>
-      <td><img alt="GitHub forks" src="https://badgen.net/github/forks//takkujunjieli/BJMR"/></td>
-      <td><img alt="GitHub issues" src="https://badgen.net/github/issues/takkujunjieli/BJMR"/></td>
-      <td><img alt="GitHub last commit" src="https://badgen.net/github/last-commit/takkujunjieli/BJMR"/></td>
+      <td><a href="[https://github.com/takkujunjieli/BJMR](https://github.com/LucyZhouEngineer/Analyst)"><b>AI-Powered Consulting Analyst
+</b></a></td>
     </tr>
   </tbody>
 </table>
