@@ -1,7 +1,15 @@
 
 <h1><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"/> Hi there 👋! Nice to see you.</h1>
 
-<p>I'm Hui, a full stack developer/AI enthusiast currently living in <b>Seattle, WA</b>. I am looking for a intern/new grad position of software engineer/ machine learning engineer.</p>
+
+### 👨🏻‍💻 &nbsp;👋 About Me
+
+💡 &nbsp;I enjoy learning new technologies and creating useful products with them.  
+🎓 &nbsp;I'm currently studying Computer Software Engineering at Northeastern University, Seattle.  
+🌱 &nbsp;I'm focused on learning more about Full Stack Development, AI, Distributed Systems, and Cloud Technologies.  
+✍️ &nbsp;In my free time, I enjoy running, playing basketball, and watching movies.  
+✉️ &nbsp;You can shoot me an email at zhouhui2023cs@gmail.com! I'll try to respond as soon as I can.
+
 <h3>Things I code with</h3>
 <p>
 <ul>
