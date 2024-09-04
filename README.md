@@ -55,7 +55,7 @@
 
 ### 💻 &nbsp;Projects
 
-- **[Real-Time Chat Application](https://github.com/takkujunjieli/Emojis)** - A real-time messaging application that enables users to communicate instantly.
+- **[Real-Time Chat Application](https://github.com/LucyZhouEngineer/mern-chat-app)** - A real-time messaging application that enables users to communicate instantly.
 - **[AsyncTask Scheduler](https://github.com/takkujunjieli/AsyncTaskScheduler)** - A Go framework for asynchronously scheduling tasks to accelerate data processing, developed in collaboration with Junjie Li.
 - **[AI-Powered Consulting Analyst](https://github.com/LucyZhouEngineer/Analyst)** - A strategy and financial AI consultant that generates reports on business outlook.
 
